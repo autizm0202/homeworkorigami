@@ -1,0 +1,18 @@
+h1{
+    color: crimson;
+    
+        border: solid;
+    
+}
+
+.header{
+    background-color: darkgrey;
+    display: flexbox;
+
+}
+.animal{
+
+border: 10px solid #000000;
+border-radius: 30px;
+
+}
